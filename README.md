@@ -1,3 +1,5 @@
+![image](./img/index.jpg)
+<br/>
 ### Hi there 👋
 * 🔭 I’m currently working on Closeli,Inc.
 * 🌱 I’m currently learning Rust
